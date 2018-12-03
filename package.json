@@ -1,0 +1,21 @@
+{
+  "name": "vue-docs-loader",
+  "author": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmaeria/vue-docs-loader.git"
+  },
+  "keywords": [
+    "vue",
+    "jsdoc"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "escodegen": "^1.11.0",
+    "to-ast": "^1.0.0",
+    "vue-docgen-api": "^2.6.1"
+  }
+}
